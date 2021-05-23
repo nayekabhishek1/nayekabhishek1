@@ -33,13 +33,13 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nayekabhishek1&show_icons=true&locale=en&layout=compact" alt="its-kumar" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nayekabhishek1&show_icons=true&locale=en&layout=compact" alt="nayekabhishek1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nayekabhishek1&show_icons=true&locale=en" alt="its-kumar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nayekabhishek1&show_icons=true&locale=en" alt="nayekabhishek1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=its-kumar&" alt="its-kumar" /></p>
+<p><img align="center" src="https://nayekabhishek1.github.io/" alt="nayekabhishek1" /></p>
 
 <!-- If you're using "main" as default branch -->
-![Metrics](https://github.com/nayekabhishek1/profile-custom-readme/blob/main/github-metrics.svg)
+<!-- ![Metrics](https://github.com/nayekabhishek1/nayekabhishek1/blob/main/github-metrics.svg) -->
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
