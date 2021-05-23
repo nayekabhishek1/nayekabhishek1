@@ -40,6 +40,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=its-kumar&" alt="its-kumar" /></p>
 
 <!-- If you're using "main" as default branch -->
-![Metrics](https://github.com/nayekabhishek1/its-kumar/blob/main/github-metrics.svg)
+![Metrics](https://github.com/nayekabhishek1/profile-custom-readme/blob/main/github-metrics.svg)
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
